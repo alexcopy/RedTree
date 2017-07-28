@@ -1,5 +1,5 @@
 # RedTree
- 
+[![Build Status](https://travis-ci.org/alexcopy/RedTree.svg)](https://travis-ci.org/alexcopy/RedTree)
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
